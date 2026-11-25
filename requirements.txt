@@ -1,0 +1,9 @@
+chromadb
+fpdf2
+openai
+pandas
+pypdf
+python-docx
+python-dotenv
+sentence-transformers
+streamlit
